@@ -24,9 +24,8 @@
   font-weight: 800;
   
 }
-.banner-description{
+.banner-description, .answer-why-development{
     font-size: 16px;
-
 }
 .contact-btn{
     font-size: 20px;
@@ -35,4 +34,21 @@
     color: #FFFFFF;
     padding: 10px;
     border-radius: 10px;
+}
+
+/* ------------------ */
+.why-development{
+    background-color: #0D132105;
+    padding: 80px 100px;
+    max-width: 1140px;
+    margin: 50px auto;
+    color: #0D1321;
+}
+.about-development{
+    text-align: center;
+}
+.questin-about-development{
+    font-size: 32px;
+    font-weight: 800;
+
 }
