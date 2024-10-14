@@ -92,7 +92,8 @@
 .about-inspiration{
     text-align: center;
     max-width: 850px;
-    margin: auto;
+   margin: 30px auto;
+    margin-bottom: 50px;
 }
 .inspiration-title{
     font-weight: 800;
@@ -101,4 +102,14 @@
 .inspiration-description{
     font-size: 16px;
     font-weight: 400;
+}
+.inspiration-video{
+   padding: 40px;
+    border: 1px solid #0D132133;
+    border-radius: 20px;
+    text-align: center;
+}
+.video{
+    border: 1px solid black;
+    border-radius: 10px;
 }
