@@ -123,3 +123,43 @@
   border: 1px solid black;
   border-radius: 10px;
 }
+.topic{
+  padding: 40px;
+  text-align: start;
+  border-radius: 16px;
+  color: #0D1321;
+  
+  
+}
+.html-color{
+  background-color: #FF4C1E0D;
+}
+.css-color{
+  background-color: #004CE80D;
+}
+.js-color{
+  background-color: #FFDF000D;
+}
+.icon{
+  width: 56px;
+  height: 56px;
+}
+.topic-title{
+  font-weight: 800;
+  font-size: 24px;
+  margin: 3px 0;
+}
+.topic-description{
+  font-weight: 400;
+  font-size: 16px;
+ 
+}
+.link{
+  font-weight: 700;
+  font-size: 16px;
+  color: #0D1321;
+}
+.all-topic{
+  display: flex;
+  gap: 25px;
+}
