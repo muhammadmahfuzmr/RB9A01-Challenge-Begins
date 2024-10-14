@@ -123,6 +123,10 @@
   border: 1px solid black;
   border-radius: 10px;
 }
+.all-topic{
+  display: flex;
+  gap: 25px;
+}
 .topic{
   padding: 40px;
   text-align: start;
@@ -158,8 +162,4 @@
   font-weight: 700;
   font-size: 16px;
   color: #0D1321;
-}
-.all-topic{
-  display: flex;
-  gap: 25px;
 }
