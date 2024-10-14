@@ -153,7 +153,7 @@
   font-size: 24px;
   margin: 3px 0;
 }
-.topic-description{
+.topic-description, .support-description{
   font-weight: 400;
   font-size: 16px;
  
@@ -162,4 +162,46 @@
   font-weight: 700;
   font-size: 16px;
   color: #0D1321;
+}
+.support-section{
+  width: 1140px;
+  margin: 50px auto;
+  color: white;
+  background-image: url("../assets/handshake.jpg");
+  background-repeat: no-repeat;
+  border-radius: 20px;
+  height: 600px;
+}
+
+.support-title{
+  font-weight: 700;
+  margin-top: 48px;
+  margin-bottom: 18px;
+  font-size: 32px;
+  margin: 0;
+ 
+}
+.submit{
+  width: max-content;
+  padding: 18px;
+  border: white;
+  border-radius: 15px;
+  background-color: #FFFFFF;
+  color: #0D1321;
+  font-weight: 600;
+  font-size: 20px;
+}
+.search-for-support{
+  width: 540px;
+  padding: 18px;
+  border: none;
+  border-radius: 15px;
+  background-color: #FFFFFF;
+  color: #0D132166;
+  font-weight: 400;
+  font-size: 20px;
+}
+.support{
+  padding: 200px;
+  text-align: center;
 }
