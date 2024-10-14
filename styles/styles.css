@@ -205,3 +205,15 @@
   padding: 200px;
   text-align: center;
 }
+.footer{
+  padding: 10px 0;
+  margin-bottom: 0;
+  background-color: #0D132108;
+}
+.footer-info{
+  max-width: 1140px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
